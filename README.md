@@ -13,3 +13,5 @@ This is the list of components included in the library (might be out of date):
     - [MSP430G2553](http://www.ti.com/lit/ds/symlink/msp430g2253.pdf) (DIP-20)
   - Voltage Regulators
     - [LM1117](http://www.ti.com/lit/ds/symlink/lm1117.pdf) (Fixed and Adjustable)
+  - Displays
+    - [Nokia 5110](https://www.sparkfun.com/products/10168)
