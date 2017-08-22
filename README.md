@@ -15,3 +15,11 @@ This is the list of components included in the library (might be out of date):
     - [LM1117](http://www.ti.com/lit/ds/symlink/lm1117.pdf) (Fixed and Adjustable)
   - Displays
     - [Nokia 5110](https://www.sparkfun.com/products/10168)
+  - Connectors
+    - 5-pin DIN 240 "Microphone" male socket
+
+This is what comes with the PCB panel library, which has footprints for components that are going to be mounted in PCB front panels:
+
+  - [PEC11R-4xxxK-Sxxxx](http://www.bourns.com/docs/Product-Datasheets/pec11R.pdf)
+  - [Nokia 5110](https://www.sparkfun.com/products/10168)
+  - 5-pin DIN 240 "Microphone" male socket
