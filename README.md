@@ -17,6 +17,8 @@ This is the list of components included in the library (might be out of date):
     - [Nokia 5110](https://www.sparkfun.com/products/10168)
   - Connectors
     - 5-pin DIN 240 "Microphone" male socket
+  - Modules
+    - ESP8266EX [ESP-01](https://www.sparkfun.com/products/13678)
 
 This is what comes with the PCB panel library, which has footprints for components that are going to be mounted in PCB front panels:
 
