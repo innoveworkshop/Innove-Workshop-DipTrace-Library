@@ -28,3 +28,8 @@ This is what comes with the PCB panel library, which has footprints for componen
   - [Nokia 5110](https://www.sparkfun.com/products/10168)
   - 5-pin DIN 240 "Microphone" male socket
   - Wire pads
+
+
+## License
+
+This project is licensed under the **MIT License**.
