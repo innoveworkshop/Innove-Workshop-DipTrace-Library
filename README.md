@@ -1,33 +1,35 @@
 # Innove Workshop DipTrace Library
 
-This is the library for custom components that we use at [Innove Workshop](http://innoveworkshop.com/).
+[Innove Workshop](http://innoveworkshop.com/)'s custom component [DipTrace](https://diptrace.com) library.
 
 
 ## Components
 
-This is the list of components included in the library (might be out of date):
+List of components included in the library (might be out of date):
 
-  - Rotary Encoders
-    - [PEC11R-4xxxK-Sxxxx](http://www.bourns.com/docs/Product-Datasheets/pec11R.pdf)
-  - Microcontrollers
-    - [MSP430G2553](http://www.ti.com/lit/ds/symlink/msp430g2253.pdf) (DIP-20)
-  - Voltage Regulators
-    - [LM1117](http://www.ti.com/lit/ds/symlink/lm1117.pdf) (Fixed and Adjustable)
+  - Connectors
+    - 5-Pin DIN 240 "Microphone" Male Socket
+    - [Molex KK 254](https://www.molex.com/molex/products/family/kk_254_rpc_connector_system)
   - Displays
     - [Nokia 5110](https://www.sparkfun.com/products/10168)
-  - Connectors
-    - 5-pin DIN 240 "Microphone" male socket
+  - Microcontrollers
+    - [MSP430G2553](http://www.ti.com/lit/ds/symlink/msp430g2253.pdf) (DIP-20)
   - Modules
     - ESP8266EX [ESP-01](https://www.sparkfun.com/products/13678)
+  - Switches
+    - [PEC11R-4xxxK-Sxxxx](http://www.bourns.com/docs/Product-Datasheets/pec11R.pdf)
+    - 2-Pin SPST Small THT Push Button
   - Transistors
-	- [BSS138](http://www.onsemi.com/pub/Collateral/BSS138-D.PDF)
+    - [BSS138](http://www.onsemi.com/pub/Collateral/BSS138-D.PDF)
+  - Voltage Regulators
+    - [LM1117](http://www.ti.com/lit/ds/symlink/lm1117.pdf) (Fixed and Adjustable)
 
-This is what comes with the PCB panel library, which has footprints for components that are going to be mounted in PCB front panels:
+List of components included in the PCB panel mount library:
 
   - [PEC11R-4xxxK-Sxxxx](http://www.bourns.com/docs/Product-Datasheets/pec11R.pdf)
   - [Nokia 5110](https://www.sparkfun.com/products/10168)
-  - 5-pin DIN 240 "Microphone" male socket
-  - Wire pads
+  - 5-Pin DIN 240 "Microphone" Male Socket
+  - Assorted Wire Pads
 
 
 ## License
