@@ -14,6 +14,8 @@ List of components included in the library (might be out of date):
     - [Nokia 5110](https://www.sparkfun.com/products/10168)
   - Diodes
     - [1N5817](https://www.st.com/en/diodes-and-rectifiers/1n5817.html)
+  - Inductors
+    - [RLB0914](https://www.bourns.com/docs/Product-Datasheets/rlb.pdf)
   - Microcontrollers
     - [MSP430G2553](http://www.ti.com/lit/ds/symlink/msp430g2253.pdf) (DIP-20)
   - Modules
