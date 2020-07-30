@@ -25,6 +25,7 @@ List of components included in the library (might be out of date):
     - 2-Pin SPST Small THT Push Button
   - Transistors
     - [BSS138](http://www.onsemi.com/pub/Collateral/BSS138-D.PDF)
+    - [BS170](https://www.onsemi.com/pub/Collateral/BS170-D.PDF)
   - Voltage Regulators
     - [LM1117](http://www.ti.com/lit/ds/symlink/lm1117.pdf) (Fixed and Adjustable)
 
