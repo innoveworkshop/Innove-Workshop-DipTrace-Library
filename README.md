@@ -12,6 +12,8 @@ List of components included in the library (might be out of date):
     - [Molex KK 254](https://www.molex.com/molex/products/family/kk_254_rpc_connector_system)
   - Displays
     - [Nokia 5110](https://www.sparkfun.com/products/10168)
+  - Diodes
+    - [1N5817](https://www.st.com/en/diodes-and-rectifiers/1n5817.html)
   - Microcontrollers
     - [MSP430G2553](http://www.ti.com/lit/ds/symlink/msp430g2253.pdf) (DIP-20)
   - Modules
